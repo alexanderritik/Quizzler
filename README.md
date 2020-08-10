@@ -1,9 +1,23 @@
 
 #  Quizzler
+<p align="center">
+  <a href="https://github.com/alexanderritik/Quizzler">
+    <img src="https://github.com/alexanderritik/Quizzler/blob/master/Quizzler-iOS13/Assets.xcassets/AppIcon.appiconset/100.png" alt="Logo" width="80" height="80">
+  </a>
+  <p align="center">
+    You will program a trivia quiz app. If you have another field of expertise such as law or medicine, you’ll be glad to know that multiple choice question apps are one of the most popular types of educational apps on the App Store! 
+  </p>
+</p>
+
+<p align="center">
+<img src= "https://github.com/alexanderritik/Quizzler/blob/master/Screenshot%202020-08-10%20at%202.48.22%20PM.png" width="400" >
+</p>
+
+
 
 ## About
 
-You will program a trivia quiz app. If you have another field of expertise such as law or medicine, you’ll be glad to know that multiple choice question apps are one of the most popular types of educational apps on the App Store! 
+
 
 ## Thing learnt
 
